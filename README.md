@@ -1,2 +1,4 @@
 # TIL-algorithm
-Today I Learning Algorithm
+Today I Learned Algorithm
+
+2021-09-04 ~ 
